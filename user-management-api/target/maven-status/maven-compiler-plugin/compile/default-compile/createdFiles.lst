@@ -1,0 +1,12 @@
+com\example\usermanagement\exception\NotFoundException.class
+com\example\usermanagement\controller\UserController.class
+com\example\usermanagement\auth\AuthController.class
+com\example\usermanagement\auth\LoginResponse.class
+com\example\usermanagement\entity\User.class
+com\example\usermanagement\exception\GlobalExceptionHandler.class
+com\example\usermanagement\repository\UserRepository.class
+com\example\usermanagement\service\UserService.class
+com\example\usermanagement\UserManagementApplication.class
+com\example\usermanagement\config\WebConfig.class
+com\example\usermanagement\auth\LoginRequest.class
+com\example\usermanagement\auth\UserDto.class
